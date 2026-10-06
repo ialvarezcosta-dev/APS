@@ -1,0 +1,11 @@
+Correcciones de las TSs
+
+* TS3: Desparramo Espectral
+    * Buen trabajo 
+    * Pasar por corrector el texto que hay algunos errores
+    * En los gráficos de espectro es mejor usar stem que plot (o usar la opción del plot que grafica puntos)
+      porque la DFT (FFT) es discreta.
+    * En el eje vertical la etiqueta no es del todo adecuada, me refiero a Magnitud Espectral. Se puede usar
+      densidad de potencia o |X(k)|^2 normalizado directamente. 
+    * En el último plot el subplot de la derecha no da mucha información. No tiene sentido poner los 
+      espectros de las tres señales sinusoidales en el mismo subplot.
