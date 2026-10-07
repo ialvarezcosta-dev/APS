@@ -9,3 +9,11 @@ Correcciones de las TSs
       densidad de potencia o |X(k)|^2 normalizado directamente. 
     * En el último plot el subplot de la derecha no da mucha información. No tiene sentido poner los 
       espectros de las tres señales sinusoidales en el mismo subplot.
+
+* TS4: Estimadores
+    * Pasar por corrector el texto que hay algunos errores
+    * Algo se rompió en tu Notebook que no puedo ver las ecuaciones, si no sólo su código en LaTeX.
+    * Tu trabajo es bueno, pero le falta un poco de orden. Estaría bueno que agregues siempre una conclusión
+      general que describa todo el trabajo que hiciste. 
+    * El análisis que hacés en general está bien, pero faltó algún detalle más sobre la varianza de los 
+      estimadores y cómo afecta el ruido en la misma.
