@@ -17,3 +17,10 @@ Correcciones de las TSs
       general que describa todo el trabajo que hiciste. 
     * El análisis que hacés en general está bien, pero faltó algún detalle más sobre la varianza de los 
       estimadores y cómo afecta el ruido en la misma.
+
+* TS4: Estimación Espectral
+    * Pasar por corrector el texto que hay algunos errores.
+    * Falta trabajar un poco más el Notebook.
+    * Los gráficos de los espectros es mejor ponerlos en plots separados.
+    * Muy bien la introducción.
+    * Falta gráficos de las señales en el dominio del tiempo.
